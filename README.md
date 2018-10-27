@@ -12,6 +12,8 @@
     background-color:green
     font-style:italic
     
+    }
+    
     <body>
           
           <h1 id=Main>Hello Everyone!</h1>
